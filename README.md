@@ -5,3 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A practice run of React, EmailJS and Contentful
 
 The style isn't great, I personally wanted to focus on the logic instead.
+
+Please, don't send too many emails ahah :)
